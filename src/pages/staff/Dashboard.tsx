@@ -82,6 +82,12 @@ const StaffDashboard = () => {
           <p className="text-gray-600">Welcome back, {user.name}</p>
         </div>
         <div className="mt-4 md:mt-0 space-x-2">
+          <Link 
+            to="/staff/support-tickets" 
+            className="inventory-btn-primary"
+          >
+            Support Tickets
+          </Link>
           <button 
             onClick={handleLogout}
             className="inventory-btn-secondary"

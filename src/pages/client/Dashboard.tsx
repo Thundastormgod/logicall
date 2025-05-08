@@ -87,6 +87,12 @@ const ClientDashboard = () => {
           >
             View Inventory
           </Link>
+          <Link 
+            to="/client/support" 
+            className="inventory-btn-secondary"
+          >
+            Support Chat
+          </Link>
         </div>
       </div>
 

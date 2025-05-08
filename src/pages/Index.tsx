@@ -14,7 +14,7 @@ const Index = () => {
                 Streamline Your Inventory Management
               </h1>
               <p className="text-lg mb-8">
-                Inventory Link Nexus provides a seamless connection between clients and warehouse
+                Logicall provides a seamless connection between clients and warehouse
                 staff, making inventory management efficient and transparent.
               </p>
               <div className="flex flex-wrap gap-4">
